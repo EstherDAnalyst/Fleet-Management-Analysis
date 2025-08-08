@@ -19,8 +19,12 @@ By the end of this project, we aim to:
 
 ### DASHBOARD
 
+![Fuel Efficiency Analysis](https://github.com/user-attachments/assets/6442a060-58e2-49aa-8ce0-f104a21597eb)
+
+![Cost Analysis](https://github.com/user-attachments/assets/1743b120-876c-467a-9983-3fac651fb8af)
 
 
+![Maintenance Analysis](https://github.com/user-attachments/assets/77d39f3b-9017-443e-9615-27886e390778)
 
 
 
